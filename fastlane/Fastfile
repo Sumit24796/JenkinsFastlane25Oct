@@ -25,8 +25,7 @@ JenkinsFastlane25Oct/Jenkins18Oct.iOS/Info.plist",
 )
 testfairy(
   api_key: "a9d7848e10692d9be289cee3b6ff294c9e91c8ed",
-  ipa: "/Users/susingh/Projects/JenkinsFastlane25Oct/JenkinsFastlane25Oct.iOS/bin/iPhone/Release/JenkinsFastlane25Oct.iOS.ipa",
-)
+  ipa: "/Users/susingh/Projects/JenkinsFastlane25Oct/JenkinsFastlane25Oct.iOS/bin/iPhone/Release/JenkinsFastlane25Oct.iOS.ipa")
   end
 end
 platform :android do
@@ -40,8 +39,6 @@ platform :android do
     )
     testfairy(
   api_key: "a9d7848e10692d9be289cee3b6ff294c9e91c8ed",
-  apk: "/Users/susingh/Projects/
-JenkinsFastlane25Oct/JenkinsFastlane25Oct.Android/bin/Release/com.companyname.JenkinsFastlane25Oct-Signed.apk"
- )
+  apk: "/Users/susingh/.jenkins/workspace/JenkinsFastlane25Oct/JenkinsFastlane25Oct.Android/bin/Release/com.companyname.jenkinsfastlane25oct-Signed.apk")
   end
 end
