@@ -21,7 +21,9 @@ platform :ios do
       platform: "ios",
       build_configuration: "Release",
       plist_path: "/Users/susingh/Projects/
-JenkinsFastlane25Oct/Jenkins18Oct.iOS/Info.plist",
+JenkinsFastlane25Oct/JenkinsFastlane25Oct.iOS/Info.plist",
+FASTLANE_USER="susingh",
+FASTLANE_PASSWORD="dminc@1178"
 )
 testfairy(
   api_key: "a9d7848e10692d9be289cee3b6ff294c9e91c8ed",
