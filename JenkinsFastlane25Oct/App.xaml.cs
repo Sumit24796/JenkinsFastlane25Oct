@@ -9,7 +9,7 @@ namespace JenkinsFastlane25Oct
         public App()
         {
             InitializeComponent();
-            //test
+            //test18
             MainPage = new MainPage();
         }
 
