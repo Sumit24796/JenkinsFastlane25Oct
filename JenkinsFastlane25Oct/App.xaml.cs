@@ -9,12 +9,13 @@ namespace JenkinsFastlane25Oct
         public App()
         {
             InitializeComponent();
-            //test18
+         
             MainPage = new MainPage();
         }
 
         protected override void OnStart()
         {
+            //test14thDecember
         }
 
         protected override void OnSleep()
